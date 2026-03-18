@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061367698354",
+    "project_id": "ridelink-lst",
+    "storage_bucket": "ridelink-lst.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061367698354:android:77725a72c3224210b5caab",
+        "android_client_info": {
+          "package_name": "com.example.ridelink_lst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061367698354-fs8o6ifl00eo5nmejpkq4a652r3gedom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridelink_lst",
+            "certificate_hash": "0ef60ba98a4d484863dca24f2b4d2eba2cded326"
+          }
+        },
+        {
+          "client_id": "1061367698354-25e0ivongjgb9mus1dmmc0jo74664kql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuALKr0HHUgoEsI9nhbee8duclgq3tsWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061367698354-25e0ivongjgb9mus1dmmc0jo74664kql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
