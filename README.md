@@ -22,14 +22,7 @@ A cross-platform mobile application built using Flutter & Firebase that allows u
 - Maps: OpenStreetMap
 - Tools: Git, GitHub
 
----
 
-📸 Screenshots
-
-(Add your app screenshots here)
-
-Example:
-"App Screenshot" (your-image-link-here)
 
 ---
 
